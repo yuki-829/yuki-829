@@ -7,6 +7,7 @@
 <h1><!-- 2. プロフィールや連絡先を変更 -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI2dHV4dmM1cjNjNTQ3bmR6OTMyMTM3aW4wc29qcnljamV1M24ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" 
   alt="地球"
+   height="50"
   width="50"
   style="vertical-align: middle; margin-right: 8px;" />
   Hello World
