@@ -13,11 +13,6 @@
   Hello World
 </h1>
 
-🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
-<br>
-
 
 
 <!--
